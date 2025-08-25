@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: rgb(7, 46, 245);
+    font-size: 350%;
+    font-style: italic;
+}
+img{
+    margin: 10% 35%;
+    border-radius: 150%;
+    border: solid;
+    color:bisque;
+    
+}
+button{
+    padding: 10px 20%;
+    border-radius: 10%;
+    border: solid;
+    color: rgb(5, 51, 237);
+    margin-left: 30% ;
+    
+}
+button:hover{
+    background-color:beige;
+     cursor: pointer;
+}
